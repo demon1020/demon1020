@@ -82,9 +82,10 @@ Cross-platform matrimony ecosystem with real-time messaging, scalable Firestore 
 
 ## 🤝 Connect With Me
 
-- LinkedIn: [linkedin.com/in/baburam-nabik-712405184](https://linkedin.com/in/baburam-nabik-712405184)
-- GitHub: [github.com/demon1020](https://github.com/demon1020)
-- Email: babunabik@gmail.com
+- 🌐 Portfolio: [portfolio-react-coral-iota.vercel.app](https://portfolio-react-coral-iota.vercel.app)
+- 💼 LinkedIn: [linkedin.com/in/baburam-nabik-712405184](https://linkedin.com/in/baburam-nabik-712405184)
+- 💻 GitHub: [github.com/demon1020](https://github.com/demon1020)
+- 📧 Email: [babunabik@gmail.com](mailto:babunabik@gmail.com)
 
 ---
 
